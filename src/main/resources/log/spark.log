@@ -1,0 +1,34 @@
+[INFO] 2016-11-13 23:17:34,822 Remoting apply$mcV$sp - Starting remoting
+[INFO] 2016-11-13 23:17:35,088 Remoting apply$mcV$sp - Remoting started; listening on addresses :[akka.tcp://sparkDriverActorSystem@192.168.99.1:52977]
+[INFO] 2016-11-13 23:19:15,631 Remoting apply$mcV$sp - Starting remoting
+[INFO] 2016-11-13 23:19:15,871 Remoting apply$mcV$sp - Remoting started; listening on addresses :[akka.tcp://sparkDriverActorSystem@192.168.99.1:53033]
+[INFO] 2016-11-13 23:19:20,195 root main - Select the last name of all employees
+[INFO] 2016-11-13 23:19:21,949 root apply - Rogers
+[INFO] 2016-11-13 23:19:21,949 root apply - Manikutty
+[INFO] 2016-11-13 23:19:21,949 root apply - Smith
+[INFO] 2016-11-13 23:19:21,949 root apply - Stevens
+[INFO] 2016-11-13 23:19:21,949 root apply - Foster
+[INFO] 2016-11-13 23:19:21,956 root apply - ODonnell
+[INFO] 2016-11-13 23:19:21,956 root apply - Doe
+[INFO] 2016-11-13 23:19:21,956 root apply - Smith
+[INFO] 2016-11-13 23:19:21,956 root apply - Efron
+[INFO] 2016-11-13 23:19:21,957 root apply - Goldsmith
+[INFO] 2016-11-13 23:19:21,957 root apply - Doe
+[INFO] 2016-11-13 23:19:21,957 root apply - Swamy
+[INFO] 2016-11-13 23:23:33,671 Remoting apply$mcV$sp - Starting remoting
+[INFO] 2016-11-13 23:23:33,888 Remoting apply$mcV$sp - Remoting started; listening on addresses :[akka.tcp://sparkDriverActorSystem@192.168.99.1:53095]
+[INFO] 2016-11-13 23:23:38,066 root main - Select the last name of all employees
+[INFO] 2016-11-13 23:23:39,616 root apply - Rogers
+[INFO] 2016-11-13 23:23:39,617 root apply - Manikutty
+[INFO] 2016-11-13 23:23:39,617 root apply - Smith
+[INFO] 2016-11-13 23:23:39,617 root apply - Stevens
+[INFO] 2016-11-13 23:23:39,617 root apply - Foster
+[INFO] 2016-11-13 23:23:39,617 root apply - ODonnell
+[INFO] 2016-11-13 23:23:39,617 root apply - Doe
+[INFO] 2016-11-13 23:23:39,617 root apply - Smith
+[INFO] 2016-11-13 23:23:39,617 root apply - Efron
+[INFO] 2016-11-13 23:23:39,617 root apply - Goldsmith
+[INFO] 2016-11-13 23:23:39,618 root apply - Doe
+[INFO] 2016-11-13 23:23:39,618 root apply - Swamy
+[INFO] 2016-11-13 23:26:30,513 Remoting apply$mcV$sp - Starting remoting
+[INFO] 2016-11-13 23:26:30,711 Remoting apply$mcV$sp - Remoting started; listening on addresses :[akka.tcp://sparkDriverActorSystem@192.168.99.1:53146]
